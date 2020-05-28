@@ -1,2 +1,2 @@
 # Minecraft-3D-Printer
-LMAO YUEEEEEEEEEEEEEEEEEEZY
+A working Minecraft mod that takes 3D-Printer .gcode files and builds a scaled version into Minecraft.
